@@ -14,7 +14,9 @@ Including:
 - [Jest](https://jestjs.io/)
 
 ## Get Started
-Clone the repository: 
+Click the green button that says `Use this template` on the top right of the screen
+
+Or clone the repository template with
 
 `git clone https://github.com/emirkucukosman/vite-react-all-in-one-template.git`
 
